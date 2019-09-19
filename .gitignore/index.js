@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 var prefix = "!";
 
-client.login("NjIwNjcxNTcxNjIyNzU2MzUy.XXlQJQ.PBhlTGidZx6FBMlFXPxF6ZSRwGE");
+client.login("NjIwNjcxNTcxNjIyNzU2MzUy.XYPjSQ.deqj_kiy5AjxXCC63fDEQwAhhOQ");
 
 client.on("ready", () => {
 
